@@ -1,0 +1,25 @@
+.bg-img1 {
+  width: 100%;
+  height: 800px;
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://wallpapercave.com/wp/wp2432517.jpg);
+}
+.bg-img2 {
+  width: 100%;
+  height: 800px;
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://wallpapercave.com/wp/wp2432514.jpg);
+}
+.bg-img3 {
+  width: 100%;
+  height: 800px;
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://wallpapercave.com/wp/wp2432513.jpg);
+}
+/* .container h1,
+p {
+  color: rgb(112, 36, 50);
+} */
